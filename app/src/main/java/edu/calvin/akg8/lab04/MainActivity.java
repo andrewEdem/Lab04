@@ -2,6 +2,7 @@ package edu.calvin.akg8.lab04;
 
 /*
 * Lab04
+* CS-262
 * This activity creates an options menu in an app
 *
 * @author Andrew Gbeddy
