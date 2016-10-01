@@ -3,7 +3,7 @@ package edu.calvin.akg8.lab04;
 /*
 * Lab04
 *
-* This simple app creates an About menu
+* This activity creates an options menu in an app
 *
 * @author Andrew Gbeddy
 * @version fall 2016
